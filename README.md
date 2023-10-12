@@ -1,6 +1,6 @@
 # RGBLed Arduino library
 
-> This library for Arduino allows you to control RGB led.
+> This library for Arduino allows you to control RGB led. This is a fork of [https://github.com/wilmouths/RGBLed](https://github.com/wilmouths/RGBLed)
 
 ## Installation
 [Installing Additional Arduino Libraries](https://www.arduino.cc/en/Guide/Libraries)
